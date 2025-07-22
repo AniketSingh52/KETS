@@ -17,3 +17,10 @@
 ### Other Instructions
 SETUP firebase hosting on your local machine if you want to deploy the diagrams on the website
 LLD(low-level design) diagrams are drawn using draw.io. Please use the same for any UML/ other diagrams
+
+
+## 🖼️ Preview Image
+
+| 🧾 Preview |
+|--------------------|
+| ![Landing Page](PreviewImage.png) |
